@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm kwaka1208
 
 - 💖 Nickname: waka（わか）
-- 🖥 PC: MacBook Air, iPad Pro
-- 🖋 Editor: VScode
+- 🖥 PC: MacBook Air, iPad mini
+- 🖋 Editor: VSCode
 - 🔭 I’m currently working on ... [crossroads lab.](https://crssrds.jp/)
 - 📫 How to reach me: ... [@kwaka1208](https://twitter.com/kwaka1208)
 
