@@ -3,7 +3,7 @@
 - 💖 Nickname: waka（わか）
 - 🖥 PC: MacBook Air, iPad mini
 - 🖋 Editor: VSCode
-- 🔭 I’m currently working on ... [crossroads lab.](https://crssrds.jp/)
+- 🔭 I’m currently working on ... [人とコンピュータの研究室](https://crssrds.jp/)
 - 📫 How to reach me: ... [@kwaka1208](https://twitter.com/kwaka1208)
 
 <div align="left">
